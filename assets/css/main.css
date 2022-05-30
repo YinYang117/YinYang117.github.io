@@ -1851,19 +1851,19 @@ input, select, textarea {
 			color: inherit;
 		}
 
-			.icon.style2:before {
-				font-size: 1.1em;
-			}
+		.icon.style2:before {
+			font-size: 1.1em;
+		}
 
-			.icon.style2:hover {
-				color: #f2849e;
-				border-color: #f2849e;
-				cursor: pointer;
-			}
+		.icon.style2:hover {
+			color: #f2849e;
+			border-color: #f2849e;
+			cursor: pointer;
+		}
 
-			.icon.style2:active {
-				background-color: rgba(242, 132, 158, 0.1);
-			}
+		.icon.style2:active {
+			background-color: rgba(242, 132, 158, 0.1);
+		}
 
 /* List */
 
@@ -3328,3 +3328,7 @@ input, select, textarea {
 			}
 
 		}
+
+.small-icon-a {
+	width: 1.2em;
+}
