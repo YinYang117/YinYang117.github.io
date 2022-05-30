@@ -382,11 +382,11 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 50%;
 		}
 
 		.row > .off-4 {
-			margin-left: 33.33333%;
+			margin-left: 50%;
 		}
 
 		.row > .col-5 {
@@ -625,11 +625,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-xlarge {
-					width: 33.33333%;
+					width: 50%;
 				}
 
 				.row > .off-4-xlarge {
-					margin-left: 33.33333%;
+					margin-left: 50%;
 				}
 
 				.row > .col-5-xlarge {
@@ -870,11 +870,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-large {
-					width: 33.33333%;
+					width: 50%;
 				}
 
 				.row > .off-4-large {
-					margin-left: 33.33333%;
+					margin-left: 50%;
 				}
 
 				.row > .col-5-large {
@@ -1115,11 +1115,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-medium {
-					width: 33.33333%;
+					width: 50%;
 				}
 
 				.row > .off-4-medium {
-					margin-left: 33.33333%;
+					margin-left: 50%;
 				}
 
 				.row > .col-5-medium {
@@ -1360,11 +1360,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-small {
-					width: 33.33333%;
+					width: 50%;
 				}
 
 				.row > .off-4-small {
-					margin-left: 33.33333%;
+					margin-left: 50%;
 				}
 
 				.row > .col-5-small {
@@ -1605,11 +1605,11 @@ input, select, textarea {
 				}
 
 				.row > .col-4-xsmall {
-					width: 33.33333%;
+					width: 50%;
 				}
 
 				.row > .off-4-xsmall {
-					margin-left: 33.33333%;
+					margin-left: 50%;
 				}
 
 				.row > .col-5-xsmall {
@@ -2774,7 +2774,7 @@ input, select, textarea {
 			}
 
 				.tiles article {
-					width: calc(33.33333% - 1.25em);
+					width: calc(50% - 1.25em);
 					margin: 1.25em 0 0 1.25em;
 				}
 
